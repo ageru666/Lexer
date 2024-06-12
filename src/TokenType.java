@@ -1,0 +1,16 @@
+public enum TokenType {
+    KEYWORD,
+    IDENTIFIER,
+    NUMBER,
+    STRING,
+    OPERATOR,
+    PUNCTUATION,
+    WHITESPACE,
+    COMMENT,
+    UNKNOWN,
+    BOOLEAN,
+    NULL,
+    UNDEFINED,
+    REGEXP,
+    TEMPLATE_STRING
+}
